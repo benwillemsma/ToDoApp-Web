@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  task: one
+  start: 2021-11-18 23:21:02
+  finished: 2021-11-18 23:21:02
+  due: 2021-11-18 23:21:02
+  interval: 
+
+two:
+  task: two
+  start: 2021-11-18 23:21:02
+  finished: 2021-11-18 23:21:02
+  due: 2021-11-18 23:21:02
+  interval: 
